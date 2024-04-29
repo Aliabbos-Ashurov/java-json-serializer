@@ -31,10 +31,11 @@ build/
 !**/src/main/**/build/
 !**/src/test/**/build/
 /target/
-/pom.xml/
+/pom.xml
 /src/main/java/com/pdp/backend/
 /src/main/java/com/pdp/support/
 /docs/
+/.idea/
 ### VS Code ###
 .vscode/
 
